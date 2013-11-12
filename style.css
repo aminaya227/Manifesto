@@ -1,0 +1,252 @@
+/* Cross Browser Compatability CSS */
+/**
+ * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
+ * v1.6.1 2010-09-17 | Authors: Eric Meyer & Richard Clark
+ * html5doctor.com/html-5-reset-stylesheet/
+ */
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+blockquote, q { quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after { content: ""; content: none; }
+
+ins { background-color: #ff9; color: #000; text-decoration: none; }
+
+mark { background-color: #ff9; color: #000; font-style: italic; font-weight: bold; }
+
+del { text-decoration: line-through; }
+
+abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+
+input, select { vertical-align: middle; }
+
+
+/* Write your CSS styles here */
+#body{
+  margin:auto;
+  padding-top: 20px;
+  width: 800px;
+ 
+}
+#inspiration {
+	background: peachpuff;
+  text-align:center;
+
+}
+
+p {
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size:40px;
+}
+
+#life {
+  font-family: 'Sail', cursive;
+  font-size: 70px;
+  color: #CD3E2D;
+}
+
+p1{
+  font-family: 'Sail', cursive;
+  font-size:40px;
+
+}
+#cursive{
+  font-family: 'Sail', cursive;
+  font-size: 40px;
+
+}
+#love {
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 45px;
+  color: #CD3E2D;
+}
+
+#love1 {
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 50px;
+  color: #CD3E2D;
+}
+
+#quit{
+ font-family: 'Eagle Lake', cursive;
+ font-size:40px;
+ color: #DC143C;
+}
+
+#stop{
+  font-family: 'Eagle Lake', cursive;
+  font-size: 40px;
+  color:#DC143C;
+}
+
+p2{
+  font-family: 'Petit Formal Script', cursive;
+  font-size:40px;
+
+}
+
+#analyze{
+  font-family:'Mrs Sheppards', cursive; 
+  font-size:70px;
+  color:#FF3300;
+
+}
+
+#right{
+  padding-left: 300px;
+  text-align:right;
+  text-indent: 70px;
+}
+
+p3{
+
+  font-family: 'Mrs Sheppards', cursive;
+  font-size:40px;
+
+}
+#beautiful{
+  font-family: 'Sail', cursive;
+  font-size: 50px;
+  color: #CD3E2D;
+}
+
+#bite{
+  padding-right: 200px;
+  font-family: 'Sail', cursive;
+  font-size: 35px;
+}
+
+
+#mind{
+  padding-right: 250px;
+  font-family:'Petit Formal Script', cursive;
+  font-size: 40px;
+}
+#arms{
+  padding-left: 200px;
+  font-family:'Petit Formal Script', cursive;
+  font-size: 40px;
+
+}
+#heart{
+  padding-left: 150px;
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 40px;
+}
+#united{
+  padding-right: 100px;
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 30px;
+  color:#DC143C;
+}
+#dream{
+  font-family: 'Sail', cursive; 
+  font-size: 35px;
+  padding-left: 300px;
+  color:#FF3300;
+}
+
+p6{
+  font-family: 'Eagle Lake', cursive;
+  font-size: 20px;
+}
+
+#travel{
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 50px;
+  color:#FF3300;
+
+}
+p7{
+  font-family: 'Eagle Lake', cursive;
+  font-size: 20px;
+
+}
+#seize{
+ font-family: 'Holtwood One SC', serif;
+ font-size: 60px;
+ color: #CD3E2D;
+}
+
+#people{
+  font-family: 'Sail', cursive;
+  font-size: 50px;
+  color:#DC143C;
+}
+
+
+#create{
+  font-family: 'Sail', cursive;
+  font-size: 50px;
+  color:#DC143C;
+}
+
+
+#start{
+  font-family: 'Sail', cursive;
+  font-size: 50px;
+  color:#DC143C;
+}
+
+
+p9{
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 45px;
+  color:#FF3300;
+}
+
+p10{
+  font-family: 'Sail', cursive;
+  font-size: 35px;
+  color: black;
+}
+
+
+#passion{
+  font-family:'Mrs Sheppards', cursive; 
+  font-size:70px;
+  color:#FF3300;
+
+}
+
+
+
+
+
+
+
+
+
+
+font-family: 'Sail', cursive;
+font-family: 'Petit Formal Script', cursive;
+font-family: 'Eagle Lake', cursive;
+font-family: 'Holtwood One SC', serif;
+font-family: 'Jacques Francois Shadow', cursive;
+font-family: 'Mrs Sheppards', cursive;
