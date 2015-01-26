@@ -1,74 +1,33 @@
-/* Cross Browser Compatability CSS */
-/**
- * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
- * v1.6.1 2010-09-17 | Authors: Eric Meyer & Richard Clark
- * html5doctor.com/html-5-reset-stylesheet/
- */
-
-html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
-small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
+body{
+  height:100%;
 }
 
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block;
+.container {
+  width: 100%;
+  margin: 0 auto;
 }
 
-blockquote, q { quotes: none; }
-
-blockquote:before, blockquote:after,
-q:before, q:after { content: ""; content: none; }
-
-ins { background-color: #ff9; color: #000; text-decoration: none; }
-
-mark { background-color: #ff9; color: #000; font-style: italic; font-weight: bold; }
-
-del { text-decoration: line-through; }
-
-abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
-
-table { border-collapse: collapse; border-spacing: 0; }
-
-hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
-
-input, select { vertical-align: middle; }
-
-
-/* Write your CSS styles here */
-#body{
-  margin:auto;
-  padding-top: 20px;
-  width: 800px;
- 
-}
 #inspiration {
 	background: peachpuff;
   text-align:center;
 
 }
 
-p {
+p{
+  padding-top: 20px;
   font-family: 'Jacques Francois Shadow', cursive;
   font-size:40px;
 }
 
+#your{
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 40px;
+}
+
 #life {
   font-family: 'Sail', cursive;
-  font-size: 70px;
-  color: #CD3E2D;
+  font-size: 80px;
+  color: #FF3300;
 }
 
 p1{
@@ -83,14 +42,14 @@ p1{
 }
 #love {
   font-family: 'Jacques Francois Shadow', cursive;
-  font-size: 45px;
-  color: #CD3E2D;
+  font-size: 70px;
+  color: #FF3300;
 }
 
 #love1 {
   font-family: 'Jacques Francois Shadow', cursive;
-  font-size: 50px;
-  color: #CD3E2D;
+  font-size: 60px;
+  color: #FF3300;
 }
 
 #quit{
@@ -244,9 +203,4 @@ p10{
 
 
 
-font-family: 'Sail', cursive;
-font-family: 'Petit Formal Script', cursive;
-font-family: 'Eagle Lake', cursive;
-font-family: 'Holtwood One SC', serif;
-font-family: 'Jacques Francois Shadow', cursive;
-font-family: 'Mrs Sheppards', cursive;
+
